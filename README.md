@@ -8,7 +8,7 @@ CEO codelab studio co., ltd.
 ----------------------------
 
 #### I've been learning AI for 5 years, a deep tech start up helping developers monetise their reputation!
-<p align="left"> <picture>  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"> <img src="https://test.codelabdotdev.com/wp-content/uploads/2024/09/Artboard-1.png"  /> </picture> </a></p>
+<p align="left"> <picture>  <a href="https://files.codelabdev.co/" target="_blank" rel="noreferrer"> <img src="https://test.codelabdotdev.com/wp-content/uploads/2024/09/Artboard-1.png"  /> </picture> </a></p>
 
 
 * 🌍  I'm based in Bangkok, Thailand
