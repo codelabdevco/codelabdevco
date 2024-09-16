@@ -14,7 +14,7 @@ CEO codelab studio co., ltd.
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [My port](http://profilecrd.codelabdev.co/)
 * ✉️  You can contact me at [admin@codelabdev.com](mailto:admin@codelabdev.com)
-* 🚀  I'm currently working on [My Website](http://codelabdev.co)
+* 🚀  I'm currently working on [codelabdev.co](http://codelabdev.co)
 * 🧠  I'm learning Machine learning
 * 🤝  I'm open to collaborating on Machine learning Project
 
