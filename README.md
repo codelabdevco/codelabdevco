@@ -8,7 +8,9 @@ CEO codelab studio co., ltd.
 ----------------------------
 
 I've been learning AI for 5 years
-<p align="left"> <picture>  <img src="https://test.codelabdotdev.com/wp-content/uploads/2024/09/Artboard-1.png"  /> </picture> </a></p>
+<p align="left"> <picture>  <img src="https://test.codelabdotdev.com/wp-content/uploads/2024/09/Artboard-1.png"  /> </picture> </p>
+
+
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [My port](http://profilecrd.codelabdev.co/)
 * ✉️  You can contact me at [admin@codelabdev.com](mailto:admin@codelabdev.com)
