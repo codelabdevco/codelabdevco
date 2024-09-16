@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CEO codelab studio co., ltd.
 ----------------------------
 
-I've been learning AI for 5 years
+#### I've been learning AI for 5 years, a deep tech start up helping developers monetise their reputation!
 <p align="left"> <picture>  <img src="https://test.codelabdotdev.com/wp-content/uploads/2024/09/Artboard-1.png"  /> </picture> </p>
 
 
